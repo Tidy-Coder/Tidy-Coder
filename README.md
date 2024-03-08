@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tidy-Coder
+- 👀 I’m interested in programming and in kajukenbo
+- 🌱 I’m currently learning android development
+- 💞️ I’m looking to collaborate on popular platforms
+- 📫 How to reach me ...
