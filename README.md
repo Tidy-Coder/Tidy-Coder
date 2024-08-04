@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tidy-Coder
 - 👀 I’m interested in programming and in kajukenbo
-- 🌱 I’m currently programming an opensource cybersecurity/cryptography repo and a game
+- 🌱 I’m currently programming an opensource repos (file management libarary, cybersecurity/cryptography libarary, TEM app (tidy encrypted messager)).
 - 💞️ I’m looking to collaborate on popular platforms
 - 📫 How to reach me ...
